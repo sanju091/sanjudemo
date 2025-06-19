@@ -1,4 +1,4 @@
 # sanjudemo
 a demo repository
 <br>
-Author:sanjay choudhary
+Author:sanjay choudhary(sanjudemo)
